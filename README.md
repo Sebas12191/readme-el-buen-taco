@@ -131,17 +131,17 @@ Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en el reposit
 ## Capturas de Pantalla
 
 ### Pantalla de Inicio de Sesión
-![Login](screenshots/login.png)
+![Login](login.png)
 *Interfaz de acceso a la cuenta con diseño atractivo de fondo con tacos*
 
 ### Pantalla de Registro
-![Registro](screenshots/registro.png)
+![Registro](registro.png)
 *Formulario completo de registro con validación de datos*
 
 ### Panel de Bienvenida - Mis Pedidos
-![Mis Pedidos](screenshots/mis-pedidos.png)
+![Mis Pedidos](mis-pedidos.png)
 *Vista principal donde los clientes pueden ver sus pedidos y crear nuevos*
 
 ### Formulario de Nuevo Pedido
-![Nuevo Pedido](screenshots/nuevo-pedido.png)
+![Nuevo Pedido](nuevo-pedido.png)
 *Interfaz para crear pedidos personalizados con selección de hora y método de pago*
